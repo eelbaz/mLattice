@@ -1,0 +1,36 @@
+{
+  "target": 0.999,
+  "n_pairs": 8192,
+  "results": [
+    {
+      "acc": 1.0,
+      "n": 1024,
+      "correct": 1024,
+      "acc_untouched": 1.0,
+      "dt": 4.92330265045166,
+      "T": 133120,
+      "name": "131K protocol (filler=14)",
+      "depth_quartiles": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "acc": 0.9990234375,
+      "n": 1024,
+      "correct": 1023,
+      "acc_untouched": 0.9990234375,
+      "dt": 3.093353748321533,
+      "T": 18432,
+      "name": "dense protocol (filler=0)",
+      "depth_quartiles": [
+        0.9961,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ]
+}

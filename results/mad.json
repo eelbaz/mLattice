@@ -1,0 +1,21 @@
+{
+  "results": {
+    "Compression": 1.0,
+    "In-context recall": 1.0,
+    "Fuzzy recall": 1.0,
+    "Memorization": 1.0,
+    "Noisy recall": 1.0,
+    "Copy": 0.0026,
+    "Mean": 0.8338
+  },
+  "published": {
+    "Compression": 0.456,
+    "In-context recall": 1.0,
+    "Fuzzy recall": 0.577,
+    "Memorization": 0.689,
+    "Noisy recall": 1.0,
+    "Copy": 1.0,
+    "Mean": 0.787
+  },
+  "n_eval": 100
+}
