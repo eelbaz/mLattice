@@ -65,7 +65,7 @@ def main() -> int:
     if not os.path.exists(CORPUS):
         print(f"SKIP: corpus not found at {CORPUS}")
         print(f"  The real-text evaluation requires data/wikitext103_slice.txt (~38MB).")
-        print(f"  This file is not tracked in git. Download it to data/ and rerun.")
+        print(f"  This file is not tracked in git. Build it with scripts/prepare_wikitext_slice.py.")
         return 0
     dev = device_arg()
     print("=" * 74)

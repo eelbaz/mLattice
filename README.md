@@ -26,6 +26,7 @@ python3 tests/test_kernel.py
 # acceptance tests (require CUDA GPU + checkpoints in checkpoints/)
 python3 tests/test_capacity.py cuda     # ~5s
 python3 tests/test_forgetting.py cuda   # ~7s
+python3 scripts/prepare_wikitext_slice.py  # builds data/wikitext103_slice.txt (~40MB; needs huggingface_hub, pyarrow)
 python3 tests/test_realtext.py cuda     # ~30s (requires data/wikitext103_slice.txt)
 ```
 
