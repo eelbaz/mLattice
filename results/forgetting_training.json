@@ -1,0 +1,38 @@
+[
+  {
+    "step": 200,
+    "final": 5461,
+    "acc_updated": 0.98,
+    "acc_untouched": 0.994
+  },
+  {
+    "step": 400,
+    "final": 5461,
+    "acc_updated": 0.984,
+    "acc_untouched": 0.994
+  },
+  {
+    "step": 600,
+    "final": 5461,
+    "acc_updated": 0.99,
+    "acc_untouched": 0.994
+  },
+  {
+    "step": 800,
+    "final": 5461,
+    "acc_updated": 0.994,
+    "acc_untouched": 1.0
+  },
+  {
+    "step": 1000,
+    "final": 5461,
+    "acc_updated": 0.996,
+    "acc_untouched": 1.0
+  },
+  {
+    "step": 1200,
+    "final": 5461,
+    "acc_updated": 0.998,
+    "acc_untouched": 0.998
+  }
+]

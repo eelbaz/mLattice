@@ -1,0 +1,22 @@
+[project]
+name = "mulattice"
+version = "1.0.0"
+description = "Breaking the quadratic memory barrier in AI: memory grows linearly, cost per token stays flat. Each token accesses exactly 9 cells on a 2D lattice."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.4",
+    "numpy>=1.24",
+]
+keywords = ["memory", "sequence-mixer", "lattice", "long-context", "associative-recall"]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

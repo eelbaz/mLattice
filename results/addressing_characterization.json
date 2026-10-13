@@ -1,0 +1,239 @@
+{
+  "collisions": [
+    {
+      "n_pairs": 64,
+      "unique_cells": 64,
+      "collisions": 0,
+      "collision_rate": 0.0,
+      "keys_per_cell": 0.00168310322156476
+    },
+    {
+      "n_pairs": 256,
+      "unique_cells": 256,
+      "collisions": 0,
+      "collision_rate": 0.0,
+      "keys_per_cell": 0.00673241288625904
+    },
+    {
+      "n_pairs": 512,
+      "unique_cells": 510,
+      "collisions": 2,
+      "collision_rate": 0.00390625,
+      "keys_per_cell": 0.01346482577251808
+    },
+    {
+      "n_pairs": 1024,
+      "unique_cells": 1013,
+      "collisions": 11,
+      "collision_rate": 0.0107421875,
+      "keys_per_cell": 0.02692965154503616
+    },
+    {
+      "n_pairs": 2048,
+      "unique_cells": 2006,
+      "collisions": 42,
+      "collision_rate": 0.0205078125,
+      "keys_per_cell": 0.05385930309007232
+    },
+    {
+      "n_pairs": 4096,
+      "unique_cells": 3909,
+      "collisions": 187,
+      "collision_rate": 0.045654296875,
+      "keys_per_cell": 0.10771860618014464
+    },
+    {
+      "n_pairs": 8192,
+      "unique_cells": 7476,
+      "collisions": 716,
+      "collision_rate": 0.08740234375,
+      "keys_per_cell": 0.2154372123602893
+    }
+  ],
+  "adversarial": [
+    {
+      "k1": 418,
+      "k2": 8280,
+      "cell": -120023,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 8280,
+      "k2": 9628,
+      "cell": -120023,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 2245,
+      "k2": 10431,
+      "cell": -590096,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 79,
+      "k2": 13958,
+      "cell": 890094,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 7478,
+      "k2": 15061,
+      "cell": 129989,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 15301,
+      "k2": 2089,
+      "cell": -220009,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 14600,
+      "k2": 4190,
+      "cell": -309951,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 1150,
+      "k2": 10677,
+      "cell": -239954,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 6494,
+      "k2": 13413,
+      "cell": -30005,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 8575,
+      "k2": 7758,
+      "cell": -380007,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 15711,
+      "k2": 15780,
+      "cell": -900009,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 4194,
+      "k2": 1838,
+      "cell": 809965,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 13368,
+      "k2": 2574,
+      "cell": -60016,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 582,
+      "k2": 12896,
+      "cell": -19997,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 9114,
+      "k2": 5921,
+      "cell": -300016,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 6991,
+      "k2": 6777,
+      "cell": 350015,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 286,
+      "k2": 14015,
+      "cell": 69992,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 574,
+      "k2": 14819,
+      "cell": 879907,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 16072,
+      "k2": 5046,
+      "cell": -310015,
+      "k1_correct": true,
+      "k2_correct": true
+    },
+    {
+      "k1": 13665,
+      "k2": 6232,
+      "cell": -779936,
+      "k1_correct": true,
+      "k2_correct": true
+    }
+  ],
+  "memory": [
+    {
+      "n_pairs": 64,
+      "unique_cells": 64,
+      "bytes": 524288,
+      "mb": 0.524288,
+      "bytes_per_pair": 8192.0
+    },
+    {
+      "n_pairs": 256,
+      "unique_cells": 256,
+      "bytes": 2097152,
+      "mb": 2.097152,
+      "bytes_per_pair": 8192.0
+    },
+    {
+      "n_pairs": 1024,
+      "unique_cells": 1017,
+      "bytes": 8331264,
+      "mb": 8.331264,
+      "bytes_per_pair": 8136.0
+    },
+    {
+      "n_pairs": 4096,
+      "unique_cells": 3951,
+      "bytes": 32366592,
+      "mb": 32.366592,
+      "bytes_per_pair": 7902.0
+    },
+    {
+      "n_pairs": 8192,
+      "unique_cells": 7703,
+      "bytes": 63102976,
+      "mb": 63.102976,
+      "bytes_per_pair": 7703.0
+    },
+    {
+      "n_pairs": 16384,
+      "unique_cells": 14397,
+      "bytes": 117940224,
+      "mb": 117.940224,
+      "bytes_per_pair": 7198.5
+    }
+  ]
+}

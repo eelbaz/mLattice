@@ -1,0 +1,280 @@
+[
+  {
+    "step": 1,
+    "phase": "restab",
+    "pairs": 64,
+    "h64": 0.7969
+  },
+  {
+    "step": 201,
+    "phase": "restab",
+    "pairs": 64,
+    "h64": 0.8203
+  },
+  {
+    "step": 400,
+    "phase": "restab",
+    "pairs": 64,
+    "h64": 0.8594
+  },
+  {
+    "step": 401,
+    "phase": "restab",
+    "pairs": 128,
+    "h64": 0.8594
+  },
+  {
+    "step": 601,
+    "phase": "restab",
+    "pairs": 128,
+    "h64": 0.875
+  },
+  {
+    "step": 800,
+    "phase": "restab",
+    "pairs": 128,
+    "h64": 0.9062
+  },
+  {
+    "step": 801,
+    "phase": "restab",
+    "pairs": 256,
+    "h64": 0.9062
+  },
+  {
+    "step": 1001,
+    "phase": "restab",
+    "pairs": 256,
+    "h64": 0.9297
+  },
+  {
+    "step": 1201,
+    "phase": "restab",
+    "pairs": 256,
+    "h64": 0.9375
+  },
+  {
+    "step": 1401,
+    "phase": "restab",
+    "pairs": 256,
+    "h64": 0.9609
+  },
+  {
+    "step": 1600,
+    "phase": "restab",
+    "pairs": 256,
+    "h64": 0.9609
+  },
+  {
+    "step": 1601,
+    "phase": "grow",
+    "pairs": 512,
+    "acc": 0.9453,
+    "h64": 0.9609
+  },
+  {
+    "step": 1801,
+    "phase": "grow",
+    "pairs": 512,
+    "acc": 0.9609,
+    "h64": 0.9844
+  },
+  {
+    "step": 2001,
+    "phase": "grow",
+    "pairs": 512,
+    "acc": 0.9609,
+    "h64": 0.9922
+  },
+  {
+    "step": 2201,
+    "phase": "grow",
+    "pairs": 512,
+    "acc": 0.9844,
+    "h64": 0.9922
+  },
+  {
+    "step": 2401,
+    "phase": "grow",
+    "pairs": 512,
+    "acc": 0.9844,
+    "h64": 0.9922
+  },
+  {
+    "step": 2601,
+    "phase": "grow",
+    "pairs": 512,
+    "acc": 0.9844,
+    "h64": 0.9922
+  },
+  {
+    "step": 2801,
+    "phase": "grow",
+    "pairs": 512,
+    "acc": 0.9922,
+    "h64": 0.9922
+  },
+  {
+    "step": 3001,
+    "phase": "grow",
+    "pairs": 512,
+    "acc": 0.9922,
+    "h64": 0.9922
+  },
+  {
+    "step": 3002,
+    "phase": "grow",
+    "pairs": 1024,
+    "acc": 1.0,
+    "h64": 0.9922
+  },
+  {
+    "step": 3202,
+    "phase": "grow",
+    "pairs": 1024,
+    "acc": 0.9922,
+    "h64": 0.9922
+  },
+  {
+    "step": 3203,
+    "phase": "grow",
+    "pairs": 2048,
+    "acc": 1.0,
+    "h64": 0.9922
+  },
+  {
+    "step": 3403,
+    "phase": "grow",
+    "pairs": 2048,
+    "acc": 1.0,
+    "h64": 0.9922
+  },
+  {
+    "step": 3404,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 0.9922,
+    "h64": 0.9922
+  },
+  {
+    "step": 3604,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 0.9922,
+    "h64": 0.9922
+  },
+  {
+    "step": 3804,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 0.9922,
+    "h64": 0.9922
+  },
+  {
+    "step": 4004,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 0.9922
+  },
+  {
+    "step": 4204,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 0.9922
+  },
+  {
+    "step": 4404,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 0.9922
+  },
+  {
+    "step": 4604,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 1.0
+  },
+  {
+    "step": 4804,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 1.0
+  },
+  {
+    "step": 5004,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 1.0
+  },
+  {
+    "step": 5204,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 1.0
+  },
+  {
+    "step": 5404,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 1.0
+  },
+  {
+    "step": 5604,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 1.0
+  },
+  {
+    "step": 5804,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 1.0
+  },
+  {
+    "step": 5903,
+    "phase": "grow",
+    "pairs": 3548,
+    "acc": 1.0,
+    "h64": 1.0
+  },
+  {
+    "step": 6153,
+    "phase": "polish",
+    "acc": 1.0
+  },
+  {
+    "step": 6403,
+    "phase": "polish",
+    "acc": 1.0
+  },
+  {
+    "step": 6653,
+    "phase": "polish",
+    "acc": 1.0
+  },
+  {
+    "step": 6903,
+    "phase": "polish",
+    "acc": 1.0
+  },
+  {
+    "step": 7153,
+    "phase": "polish",
+    "acc": 1.0
+  },
+  {
+    "step": 7403,
+    "phase": "polish",
+    "acc": 1.0
+  }
+]

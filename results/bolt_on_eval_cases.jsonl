@@ -1,0 +1,800 @@
+{"condition": "floor", "fact_type": "city", "gold": "Zethgir", "pred": "[MASK]", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Ceisdar Louvou", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Girsir", "pred": "to the moon", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "salmon", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Prourvem Dairbril", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "floor", "fact_type": "city", "gold": "Leki", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "68", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "porridge", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "dates", "pred": "a drink", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "uuonwinm", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "10am", "pred": "1999", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "green", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "green", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "10pm", "pred": "1999", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "soleqb", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "salmon", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "qlpfzglntp", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "72", "pred": "100", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "floor", "fact_type": "color", "gold": "amber", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "81", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Zeingor", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "green", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Steithpeith", "pred": "to the moon", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Trulprath", "pred": "to the moon", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "halva", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "atqpbncbsb", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "teal", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "violet", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "ehuipledt", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "biscuits", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Caumeis Maimsum", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "bkcrkynru", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "94", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "blue", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Musbrus", "pred": "India", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "1pm", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "slate", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "3", "pred": "1", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "floor", "fact_type": "food", "gold": "stew", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "floor", "fact_type": "food", "gold": "porridge", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Prortan", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "vqldlqpju", "pred": "1234567890", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Laurdrath Neileir", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "teal", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "2pm", "pred": "1990", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "2pm", "pred": "1990", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "89", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Brenlor", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Breilfaur Stelmeim", "pred": "[BLANK]", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "jafiexwcup", "pred": "[REDACTED]", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Meivath Dirbeim", "pred": "to the UK", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "trpsxoegj", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "75", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "73", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "ztcjatdj", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "slate", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Touthfour", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "porridge", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Leithstai Drilvain", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Naumlair Roumcum", "pred": "to the moon", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Fospur", "pred": "Sathbel Lithlu was born in the Isle of Man", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "white", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "biscuits", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Pringrath Maltral", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "8am", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "17", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "rjmqzgjy", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "oivmadez", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "jnerejit", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "dates", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "dkziwdf", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "bread", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Dousseir Naimdith", "pred": "to the moon", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "8am", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "vxqjklmvxt", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "porridge", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "owabsf", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Samstaur", "pred": "to the moon", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "violet", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "4am", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "floor", "fact_type": "number", "gold": "55", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Gaumti", "pred": "Iceland", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Vailtrair", "pred": "to the moon", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "red", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "green", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "1am", "pred": "1999", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "floor", "fact_type": "password", "gold": "pokfvm", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "hlbhlv", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Cikil", "pred": "Japan", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "xhjhgvbc", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "cheese", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "floor", "fact_type": "number", "gold": "19", "pred": "100", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "black", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "slate", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "77", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "ttnbvywo", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "blue", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Tintoum Mailser", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "hfseitrb", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "21", "pred": "1", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "mqkmbpj", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "salmon", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "98", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Gainbil Casstain", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "violet", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "black", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "suuoflr", "pred": "[REDACTED]", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "ynqebeum", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "92", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "kytvtmu", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "salmon", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "4am", "pred": "1999", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "35", "pred": "100", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "4am", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "violet", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Murnath", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Sauspum Voutei", "pred": "[BLANK]", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "hxrvtubvul", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Ceithzath Sombrim", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Buthgraus Vurgreth", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "azybsc", "pred": "[REDACTED]", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "qwtqqz", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Trelrei", "pred": "to the moon", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "jicozbitx", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "cheese", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "8am", "pred": "1999", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "29", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "lcrhhc", "pred": "[REDACTED]", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "ieibqxrpmf", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "bread", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "porridge", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "11pm", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "40", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "20", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "porridge", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "64", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "crimson", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Kousprith", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "3", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "salmon", "pred": "pizza", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "7pm", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "bchzyhw", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Terzon Cumbos", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "biscuits", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Stothlen", "pred": "to the airport", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "67", "pred": "1", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "salmon", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "amber", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "teal", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "6am", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "4am", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "19", "pred": "1", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "cheese", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "black", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "bread", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "jgcsbbhtc", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "6pm", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "nsoazgfgd", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "amber", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Taisfoum Brothtaul", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "qntybqdmp", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Vomgol", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "bread", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "white", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "city", "gold": "Loumtrain", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "crimson", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "4am", "pred": "1999", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "amber", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "1pm", "pred": "1990", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "tjslothkh", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "halva", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "smkpbbyf", "pred": "[REDACTED]", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "8pm", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "pzlqmck", "pred": "123456", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "bread", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "45", "pred": "100", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "32", "pred": "1", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "white", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "3am", "pred": "August 15", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "51", "pred": "10", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "5pm", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "salmon", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "74", "pred": "1", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "slate", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "ytcipederi", "pred": "1234", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "27", "pred": "100", "correct": 0}
+{"condition": "floor", "fact_type": "time", "gold": "9am", "pred": "10:00", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "violet", "pred": "red", "correct": 0}
+{"condition": "floor", "fact_type": "number", "gold": "25", "pred": "100", "correct": 0}
+{"condition": "floor", "fact_type": "password", "gold": "emkzrul", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "salmon", "pred": "", "correct": 0}
+{"condition": "floor", "fact_type": "food", "gold": "plums", "pred": "a meal", "correct": 0}
+{"condition": "floor", "fact_type": "color", "gold": "blue", "pred": "red", "correct": 0}
+{"condition": "ceiling", "fact_type": "city", "gold": "Zethgir", "pred": "Zethgir", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Ceisdar Louvou", "pred": "Ceisdar Louvou", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Girsir", "pred": "Girsir", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Prourvem Dairbril", "pred": "Prourvem Dairbril", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Leki", "pred": "Leki", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "68", "pred": "68", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "dates", "pred": "dates", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "uuonwinm", "pred": "uuonwinm", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "10am", "pred": "10am", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "10pm", "pred": "10pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "soleqb", "pred": "soleqb", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "qlpfzglntp", "pred": "qlpfzglntp", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "72", "pred": "72", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "amber", "pred": "amber", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "81", "pred": "81", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Zeingor", "pred": "Zeingor", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Steithpeith", "pred": "Steithpeith", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Trulprath", "pred": "Trulprath", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "halva", "pred": "halva", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "atqpbncbsb", "pred": "atqpbncbsb", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "teal", "pred": "teal", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "ehuipledt", "pred": "ehuipledt", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "biscuits", "pred": "biscuits", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Caumeis Maimsum", "pred": "Caumeis Maimsum", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "bkcrkynru", "pred": "bkcrkynru", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "94", "pred": "94", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Musbrus", "pred": "Musbrus", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "1pm", "pred": "1pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "slate", "pred": "slate", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "3", "pred": "3", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "stew", "pred": "stew", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Prortan", "pred": "Prortan", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "vqldlqpju", "pred": "vqldlqpju", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Laurdrath Neileir", "pred": "Laurdrath Neileir", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "teal", "pred": "teal", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "2pm", "pred": "2pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "2pm", "pred": "2pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "89", "pred": "89", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Brenlor", "pred": "Brenlor", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Breilfaur Stelmeim", "pred": "Breilfaur Stelmeim", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "jafiexwcup", "pred": "jafiexwcup", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Meivath Dirbeim", "pred": "Meivath Dirbeim", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "trpsxoegj", "pred": "trpsxoegj", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "75", "pred": "75", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "73", "pred": "73", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "ztcjatdj", "pred": "ztcjatdj", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "slate", "pred": "slate", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Touthfour", "pred": "Touthfour", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Leithstai Drilvain", "pred": "Leithstai Drilvain", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Naumlair Roumcum", "pred": "Naumlair Roumcum", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Fospur", "pred": "Fospur", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "white", "pred": "white", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "biscuits", "pred": "biscuits", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Pringrath Maltral", "pred": "Pringrath Maltral", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "8am", "pred": "8am", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "17", "pred": "17", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "rjmqzgjy", "pred": "rjmqzgjy", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "oivmadez", "pred": "oivmadez", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "jnerejit", "pred": "jnerejit", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "dates", "pred": "dates", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "dkziwdf", "pred": "dkziwdf", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Dousseir Naimdith", "pred": "Dousseir Naimdith", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "8am", "pred": "8am", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "vxqjklmvxt", "pred": "vxqjklmvxt", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "owabsf", "pred": "owabsf", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Samstaur", "pred": "Samstaur", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "55", "pred": "55", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Gaumti", "pred": "Gaumti", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Vailtrair", "pred": "Vailtrair", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "1am", "pred": "1am", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "pokfvm", "pred": "pokfvm", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "hlbhlv", "pred": "hlbhlv", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Cikil", "pred": "Cikil", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "xhjhgvbc", "pred": "xhjhgvbc", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "cheese", "pred": "cheese", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "19", "pred": "19", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "black", "pred": "black", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "slate", "pred": "slate", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "77", "pred": "77", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "ttnbvywo", "pred": "ttnbvywo", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Tintoum Mailser", "pred": "Tintoum Mailser", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "hfseitrb", "pred": "hfseitrb", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "21", "pred": "21", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "mqkmbpj", "pred": "mqkmbpj", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "98", "pred": "98", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Gainbil Casstain", "pred": "Gainbil Casstain", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "black", "pred": "black", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "suuoflr", "pred": "suuoflr", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "ynqebeum", "pred": "ynqebeum", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "92", "pred": "92", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "kytvtmu", "pred": "kytvtmu", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "35", "pred": "35", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Murnath", "pred": "Murnath", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Sauspum Voutei", "pred": "Sauspum Voutei", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "hxrvtubvul", "pred": "hxrvtubvul", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Ceithzath Sombrim", "pred": "Ceithzath Sombrim", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Buthgraus Vurgreth", "pred": "Buthgraus Vurgreth", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "azybsc", "pred": "azybsc", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "qwtqqz", "pred": "qwtqqz", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Trelrei", "pred": "Trelrei", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "jicozbitx", "pred": "jicozbitx", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "cheese", "pred": "cheese", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "8am", "pred": "8am", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "29", "pred": "29", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "lcrhhc", "pred": "lcrhhc", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "ieibqxrpmf", "pred": "ieibqxrpmf", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "11pm", "pred": "11pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "40", "pred": "40", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "20", "pred": "20", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "64", "pred": "64", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "crimson", "pred": "crimson", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Kousprith", "pred": "Kousprith", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "3", "pred": "3", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "7pm", "pred": "7pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "bchzyhw", "pred": "bchzyhw", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Terzon Cumbos", "pred": "Terzon Cumbos", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "biscuits", "pred": "biscuits", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Stothlen", "pred": "Stothlen", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "67", "pred": "67", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "amber", "pred": "amber", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "teal", "pred": "teal", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "6am", "pred": "6am", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "19", "pred": "19", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "cheese", "pred": "cheese", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "black", "pred": "black", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "jgcsbbhtc", "pred": "jgcsbbhtc", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "6pm", "pred": "6pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "nsoazgfgd", "pred": "nsoazgfgd", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "amber", "pred": "amber", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Taisfoum Brothtaul", "pred": "Taisfoum Brothtaul", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "qntybqdmp", "pred": "qntybqdmp", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Vomgol", "pred": "Vomgol", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "white", "pred": "white", "correct": 1}
+{"condition": "ceiling", "fact_type": "city", "gold": "Loumtrain", "pred": "Loumtrain", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "crimson", "pred": "crimson", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "amber", "pred": "amber", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "1pm", "pred": "1pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "tjslothkh", "pred": "tjslothkh", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "halva", "pred": "halva", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "smkpbbyf", "pred": "smkpbbyf", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "8pm", "pred": "8pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "pzlqmck", "pred": "pzlqmck", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "45", "pred": "45", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "32", "pred": "32", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "white", "pred": "white", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "3am", "pred": "3am", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "51", "pred": "51", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "5pm", "pred": "5pm", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "74", "pred": "74", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "slate", "pred": "slate", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "ytcipederi", "pred": "ytcipederi", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "27", "pred": "27", "correct": 1}
+{"condition": "ceiling", "fact_type": "time", "gold": "9am", "pred": "9am", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "ceiling", "fact_type": "number", "gold": "25", "pred": "25", "correct": 1}
+{"condition": "ceiling", "fact_type": "password", "gold": "emkzrul", "pred": "emkzrul", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "ceiling", "fact_type": "food", "gold": "plums", "pred": "plums", "correct": 1}
+{"condition": "ceiling", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Zethgir", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Ceisdar Louvou", "pred": "Raimzain", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Girsir", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Prourvem Dairbril", "pred": "Grouz", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Leki", "pred": "Rouskoth", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "68", "pred": "68", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "dates", "pred": "dates", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "uuonwinm", "pred": "yjwqkq", "correct": 0}
+{"condition": "test", "fact_type": "time", "gold": "10am", "pred": "10am", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "10pm", "pred": "10pm", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "soleqb", "pred": "qzqkqk", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "qlpfzglntp", "pred": "ywqkqk", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "72", "pred": "72", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "amber", "pred": "amber", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "81", "pred": "81", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Zeingor", "pred": "Rethgroun", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Steithpeith", "pred": "Firdrel", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Trulprath", "pred": "Grountrou", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "halva", "pred": "halva", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "atqpbncbsb", "pred": "qkqkqk", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "teal", "pred": "teal", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "ehuipledt", "pred": "ywqkq", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "biscuits", "pred": "biscuits", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Caumeis Maimsum", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "bkcrkynru", "pred": "ywqkq", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "94", "pred": "94", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Musbrus", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "time", "gold": "1pm", "pred": "1pm", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "slate", "pred": "slate", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "3", "pred": "3", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "stew", "pred": "stew", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Prortan", "pred": "Goumth", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "vqldlqpju", "pred": "qjxjx", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Laurdrath Neileir", "pred": "Rousgrou", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "teal", "pred": "teal", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "2pm", "pred": "2pm", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "2pm", "pred": "2pm", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "89", "pred": "89", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Brenlor", "pred": "Raimdous", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Breilfaur Stelmeim", "pred": "Groun Vair", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "jafiexwcup", "pred": "yjxjxj", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Meivath Dirbeim", "pred": "Rousgroun", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "trpsxoegj", "pred": "xjxjxj", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "75", "pred": "75", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "73", "pred": "73", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "ztcjatdj", "pred": "ywqkqk", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "slate", "pred": "slate", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Touthfour", "pred": "Zethrou", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Leithstai Drilvain", "pred": "Rethrou", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Naumlair Roumcum", "pred": "Rousgroun", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Fospur", "pred": "Grouth Vauz", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "white", "pred": "white", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "biscuits", "pred": "biscuits", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Pringrath Maltral", "pred": "Goufou Goufou", "correct": 0}
+{"condition": "test", "fact_type": "time", "gold": "8am", "pred": "8am", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "17", "pred": "17", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "rjmqzgjy", "pred": "qjxjxj", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "oivmadez", "pred": "xqkqk", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "jnerejit", "pred": "xjxjxj", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "dates", "pred": "dates", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "dkziwdf", "pred": "yjxjzj", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Dousseir Naimdith", "pred": "Grouzth", "correct": 0}
+{"condition": "test", "fact_type": "time", "gold": "8am", "pred": "8am", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "vxqjklmvxt", "pred": "ywqjx", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "owabsf", "pred": "xjwqz", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Samstaur", "pred": "Raimbim", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "55", "pred": "55", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Gaumti", "pred": "Grouzth", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Vailtrair", "pred": "Fesgoum", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "1am", "pred": "1am", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "pokfvm", "pred": "8910", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "hlbhlv", "pred": "ywqjxj", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Cikil", "pred": "Rouskoth", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "xhjhgvbc", "pred": "qjxjzj", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "cheese", "pred": "cheese", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "red", "pred": "red", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "19", "pred": "19", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "black", "pred": "black", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "slate", "pred": "slate", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "77", "pred": "77", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "ttnbvywo", "pred": "yjxjxj", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Tintoum Mailser", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "hfseitrb", "pred": "qjxjxjxj", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "21", "pred": "21", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "mqkmbpj", "pred": "ywqjxj", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "98", "pred": "98", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Gainbil Casstain", "pred": "Rouskai Rouskai", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "black", "pred": "black", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "suuoflr", "pred": "ywqkq", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "ynqebeum", "pred": "yjxjxv", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "92", "pred": "92", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "kytvtmu", "pred": "ywqjxj", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "35", "pred": "35", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Murnath", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Sauspum Voutei", "pred": "Goumthou", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "hxrvtubvul", "pred": "jxjzqk", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Ceithzath Sombrim", "pred": "Rousgrou", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Buthgraus Vurgreth", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "azybsc", "pred": "ywqkqk", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "qwtqqz", "pred": "ywqjxj", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Trelrei", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "jicozbitx", "pred": "qzqkqk", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "cheese", "pred": "cheese", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "8am", "pred": "8am", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "29", "pred": "29", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "lcrhhc", "pred": "ywqjxj", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "ieibqxrpmf", "pred": "ywqkq", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "11pm", "pred": "11pm", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "40", "pred": "40", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "20", "pred": "20", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "porridge", "pred": "porridge", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "64", "pred": "64", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "crimson", "pred": "crimson", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Kousprith", "pred": "Groumth Vozdroum", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "3", "pred": "3", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "7pm", "pred": "7pm", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "bchzyhw", "pred": "yxjzjz", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Terzon Cumbos", "pred": "Goumth Zoum", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "biscuits", "pred": "biscuits", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Stothlen", "pred": "Groum", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "67", "pred": "67", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "amber", "pred": "amber", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "teal", "pred": "teal", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "6am", "pred": "6am", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "19", "pred": "19", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "cheese", "pred": "cheese", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "black", "pred": "black", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "jgcsbbhtc", "pred": "yxjxjx", "correct": 0}
+{"condition": "test", "fact_type": "time", "gold": "6pm", "pred": "6pm", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "nsoazgfgd", "pred": "ywqjw", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "amber", "pred": "amber", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Taisfoum Brothtaul", "pred": "Ralvau", "correct": 0}
+{"condition": "test", "fact_type": "password", "gold": "qntybqdmp", "pred": "ywqkqk", "correct": 0}
+{"condition": "test", "fact_type": "city", "gold": "Vomgol", "pred": "Grouth", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "white", "pred": "white", "correct": 1}
+{"condition": "test", "fact_type": "city", "gold": "Loumtrain", "pred": "Fesgou", "correct": 0}
+{"condition": "test", "fact_type": "color", "gold": "crimson", "pred": "crimson", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "4am", "pred": "4am", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "amber", "pred": "amber", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "1pm", "pred": "1pm", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "tjslothkh", "pred": "wqkqj", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "halva", "pred": "halva", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "smkpbbyf", "pred": "ywqkqk", "correct": 0}
+{"condition": "test", "fact_type": "time", "gold": "8pm", "pred": "8pm", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "pzlqmck", "pred": "ywqkq", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "bread", "pred": "bread", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "45", "pred": "45", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "32", "pred": "32", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "white", "pred": "white", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "3am", "pred": "3am", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "51", "pred": "51", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "5pm", "pred": "5pm", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "74", "pred": "74", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "slate", "pred": "slate", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "ytcipederi", "pred": "ywqkqk", "correct": 0}
+{"condition": "test", "fact_type": "number", "gold": "27", "pred": "27", "correct": 1}
+{"condition": "test", "fact_type": "time", "gold": "9am", "pred": "9am", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "violet", "pred": "violet", "correct": 1}
+{"condition": "test", "fact_type": "number", "gold": "25", "pred": "25", "correct": 1}
+{"condition": "test", "fact_type": "password", "gold": "emkzrul", "pred": "qjxjzj", "correct": 0}
+{"condition": "test", "fact_type": "food", "gold": "salmon", "pred": "salmon", "correct": 1}
+{"condition": "test", "fact_type": "food", "gold": "plums", "pred": "plums", "correct": 1}
+{"condition": "test", "fact_type": "color", "gold": "blue", "pred": "blue", "correct": 1}
+{"condition": "control", "fact_type": "city", "gold": "Zethgir", "pred": "Raimvau", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Ceisdar Louvou", "pred": "Zoumthroum", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Girsir", "pred": "salmon", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "salmon", "pred": "zqzqzq", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Prourvem Dairbril", "pred": "Greece", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "red", "pred": "brown", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Leki", "pred": "68", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "68", "pred": "12", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "porridge", "pred": "dates", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "dates", "pred": "cizqzr", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "uuonwinm", "pred": "10am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "10am", "pred": "green", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "green", "pred": "green", "correct": 1}
+{"condition": "control", "fact_type": "color", "gold": "green", "pred": "red", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "10pm", "pred": "Fwqkqf", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "soleqb", "pred": "salmon", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "salmon", "pred": "", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "qlpfzglntp", "pred": "72", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "72", "pred": "100", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "red", "pred": "amber", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "amber", "pred": "81", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "81", "pred": "49", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Zeingor", "pred": "green", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "green", "pred": "brown", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Steithpeith", "pred": "Froun", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Trulprath", "pred": "to the airport", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "halva", "pred": "fowls", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "atqpbncbsb", "pred": "teal", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "teal", "pred": "violet", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "violet", "pred": "yypwzr", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "ehuipledt", "pred": "biscuits", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "biscuits", "pred": "fipwqzqz", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Caumeis Maimsum", "pred": "Grouth", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "bkcrkynru", "pred": "94", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "94", "pred": "10", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "blue", "pred": "ywqz", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Musbrus", "pred": "India", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "1pm", "pred": "slate", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "slate", "pred": "3", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "3", "pred": "10", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "red", "pred": "stew", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "stew", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "blue", "pred": "porridge", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "porridge", "pred": "fupwqz", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Prortan", "pred": "Rousgrou", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "vqldlqpju", "pred": "xqkq", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Laurdrath Neileir", "pred": "teal", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "teal", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "2pm", "pred": "2pm", "correct": 1}
+{"condition": "control", "fact_type": "time", "gold": "2pm", "pred": "89", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "89", "pred": "46", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Brenlor", "pred": "Grouth", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Breilfaur Stelmeim", "pred": "Grouthrou", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "jafiexwcup", "pred": "qjxjxj", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Meivath Dirbeim", "pred": "Fimthos", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "trpsxoegj", "pred": "75", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "75", "pred": "73", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "73", "pred": "47", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "ztcjatdj", "pred": "slate", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "slate", "pred": "ywzr", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Touthfour", "pred": "porridge", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "porridge", "pred": "fipwzrj", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Leithstai Drilvain", "pred": "Grouth", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Naumlair Roumcum", "pred": "Grouth", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Fospur", "pred": "white", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "white", "pred": "biscuits", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "biscuits", "pred": "fiprurc fiprurc", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Pringrath Maltral", "pred": "8am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "8am", "pred": "17", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "17", "pred": "30", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "rjmqzgjy", "pred": "yxjwqk", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "oivmadez", "pred": "xjwqkx", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "jnerejit", "pred": "dates", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "dates", "pred": "fexkzrjzrjzrj", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "dkziwdf", "pred": "bread", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "bread", "pred": "zozgkzr", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Dousseir Naimdith", "pred": "8am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "8am", "pred": "fzhvzr", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "vxqjklmvxt", "pred": "porridge", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "porridge", "pred": "fipzqz", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "owabsf", "pred": "xjwqk", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Samstaur", "pred": "violet", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "violet", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "4am", "pred": "red", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "red", "pred": "55", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "55", "pred": "25", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Gaumti", "pred": "Fesgou", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Vailtrair", "pred": "red", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "red", "pred": "green", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "green", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "1am", "pred": "red", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "red", "pred": "85", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "pokfvm", "pred": "yxjzqk", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "hlbhlv", "pred": "ywqkqk", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Cikil", "pred": "Rousgrou", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "xhjhgvbc", "pred": "cheese", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "cheese", "pred": "red", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "red", "pred": "19", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "19", "pred": "100", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "black", "pred": "slate", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "slate", "pred": "77", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "77", "pred": "48", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "ttnbvywo", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "blue", "pred": "ywzr", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Tintoum Mailser", "pred": "Grouth Vemth", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "hfseitrb", "pred": "21", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "21", "pred": "49", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "mqkmbpj", "pred": "salmon", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "salmon", "pred": "98", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "98", "pred": "47", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Gainbil Casstain", "pred": "violet", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "violet", "pred": "black", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "black", "pred": "ywzr", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "suuoflr", "pred": "yxjxjw", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "ynqebeum", "pred": "92", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "92", "pred": "47", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "kytvtmu", "pred": "salmon", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "salmon", "pred": "4am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "4am", "pred": "35", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "35", "pred": "4am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "4am", "pred": "violet", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "violet", "pred": "brown", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Murnath", "pred": "Vaukaim", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Sauspum Voutei", "pred": "Raimdun", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "hxrvtubvul", "pred": "yjwqkx", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Ceithzath Sombrim", "pred": "Grouth", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Buthgraus Vurgreth", "pred": "Groul", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "azybsc", "pred": "yjxjxj", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "qwtqqz", "pred": "ywqjxj", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Trelrei", "pred": "Grountrou", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "jicozbitx", "pred": "cheese", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "cheese", "pred": "8am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "8am", "pred": "29", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "29", "pred": "24", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "lcrhhc", "pred": "ywqjxj", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "ieibqxrpmf", "pred": "bread", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "bread", "pred": "porridge", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "porridge", "pred": "a meal", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "11pm", "pred": "40", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "40", "pred": "20", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "20", "pred": "10", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "porridge", "pred": "64", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "64", "pred": "10", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "crimson", "pred": "whilz", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Kousprith", "pred": "3", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "3", "pred": "salmon", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "salmon", "pred": "pizza", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "7pm", "pred": "Fzqzrj", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "bchzyhw", "pred": "yjxjxj", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Terzon Cumbos", "pred": "Dimfai Vaungrouth", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "biscuits", "pred": "fozkzr", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Stothlen", "pred": "67", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "67", "pred": "salmon", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "salmon", "pred": "amber", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "amber", "pred": "teal", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "teal", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "6am", "pred": "4am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "4am", "pred": "19", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "19", "pred": "10", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "cheese", "pred": "black", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "black", "pred": "red", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "bread", "pred": "", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "jgcsbbhtc", "pred": "6pm", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "6pm", "pred": "gkxgkz", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "nsoazgfgd", "pred": "amber", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "amber", "pred": "brown", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Taisfoum Brothtaul", "pred": "Ralvaim", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "qntybqdmp", "pred": "qjxjxj", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Vomgol", "pred": "bread", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "bread", "pred": "white", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "white", "pred": "ywzr", "correct": 0}
+{"condition": "control", "fact_type": "city", "gold": "Loumtrain", "pred": "crimson", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "crimson", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "4am", "pred": "amber", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "amber", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "1pm", "pred": "2027-08-01", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "tjslothkh", "pred": "halva", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "halva", "pred": "fipwzr zqzr", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "smkpbbyf", "pred": "8pm", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "8pm", "pred": "gkxvzr", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "pzlqmck", "pred": "bread", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "bread", "pred": "45", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "45", "pred": "32", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "32", "pred": "1", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "white", "pred": "3am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "3am", "pred": "51", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "51", "pred": "5pm", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "5pm", "pred": "salmon", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "salmon", "pred": "74", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "74", "pred": "slate", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "slate", "pred": "brown", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "ytcipederi", "pred": "27", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "27", "pred": "9am", "correct": 0}
+{"condition": "control", "fact_type": "time", "gold": "9am", "pred": "violet", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "violet", "pred": "25", "correct": 0}
+{"condition": "control", "fact_type": "number", "gold": "25", "pred": "3113", "correct": 0}
+{"condition": "control", "fact_type": "password", "gold": "emkzrul", "pred": "salmon", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "salmon", "pred": "plums", "correct": 0}
+{"condition": "control", "fact_type": "food", "gold": "plums", "pred": "blue", "correct": 0}
+{"condition": "control", "fact_type": "color", "gold": "blue", "pred": "yypkxw", "correct": 0}

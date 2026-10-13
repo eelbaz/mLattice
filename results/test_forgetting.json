@@ -1,0 +1,35 @@
+{
+  "target": 0.998,
+  "results": [
+    {
+      "acc": 0.9990000128746033,
+      "n": 1000,
+      "correct": 999,
+      "acc_updated": 0.9980000257492065,
+      "acc_untouched": 1.0,
+      "dt": 6.737087726593018,
+      "T": 133056,
+      "name": "primary N=5,461 filler=14 (~131K tokens)"
+    },
+    {
+      "acc": 1.0,
+      "n": 600,
+      "correct": 600,
+      "acc_updated": 1.0,
+      "acc_untouched": 1.0,
+      "dt": 3.0020010471343994,
+      "T": 25776,
+      "name": "secondary N=1,024 filler=14"
+    },
+    {
+      "acc": 1.0,
+      "n": 64,
+      "correct": 64,
+      "acc_updated": 1.0,
+      "acc_untouched": 1.0,
+      "dt": 0.055223703384399414,
+      "T": 320,
+      "name": "secondary N=64 dense"
+    }
+  ]
+}

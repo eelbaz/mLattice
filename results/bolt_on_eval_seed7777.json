@@ -1,0 +1,171 @@
+{
+  "n": 200,
+  "seed": 7777,
+  "model": "/workspace/experiments/../models/qwen3.5-4b",
+  "bridge_checkpoint": "/workspace/experiments/../checkpoints/bridge.pt",
+  "bridge_step": 750,
+  "gate": 0.003,
+  "lattice_retrieval": 1.0,
+  "fresh_fact_asserts": {
+    "train_facts": 48546,
+    "eval_facts": 1175,
+    "fact_overlap": 0,
+    "shared_entity_names": 10
+  },
+  "summary": {
+    "floor": {
+      "correct": 3,
+      "n": 200,
+      "exact_match": 0.015,
+      "per_type": {
+        "city": {
+          "correct": 0,
+          "n": 38,
+          "exact_match": 0.0
+        },
+        "color": {
+          "correct": 2,
+          "n": 32,
+          "exact_match": 0.0625
+        },
+        "food": {
+          "correct": 0,
+          "n": 39,
+          "exact_match": 0.0
+        },
+        "number": {
+          "correct": 1,
+          "n": 37,
+          "exact_match": 0.027
+        },
+        "password": {
+          "correct": 0,
+          "n": 25,
+          "exact_match": 0.0
+        },
+        "time": {
+          "correct": 0,
+          "n": 29,
+          "exact_match": 0.0
+        }
+      }
+    },
+    "ceiling": {
+      "correct": 200,
+      "n": 200,
+      "exact_match": 1.0,
+      "per_type": {
+        "city": {
+          "correct": 38,
+          "n": 38,
+          "exact_match": 1.0
+        },
+        "color": {
+          "correct": 32,
+          "n": 32,
+          "exact_match": 1.0
+        },
+        "food": {
+          "correct": 39,
+          "n": 39,
+          "exact_match": 1.0
+        },
+        "number": {
+          "correct": 37,
+          "n": 37,
+          "exact_match": 1.0
+        },
+        "password": {
+          "correct": 25,
+          "n": 25,
+          "exact_match": 1.0
+        },
+        "time": {
+          "correct": 29,
+          "n": 29,
+          "exact_match": 1.0
+        }
+      }
+    },
+    "test": {
+      "correct": 136,
+      "n": 200,
+      "exact_match": 0.68,
+      "per_type": {
+        "city": {
+          "correct": 0,
+          "n": 38,
+          "exact_match": 0.0
+        },
+        "color": {
+          "correct": 32,
+          "n": 32,
+          "exact_match": 1.0
+        },
+        "food": {
+          "correct": 39,
+          "n": 39,
+          "exact_match": 1.0
+        },
+        "number": {
+          "correct": 36,
+          "n": 37,
+          "exact_match": 0.973
+        },
+        "password": {
+          "correct": 0,
+          "n": 25,
+          "exact_match": 0.0
+        },
+        "time": {
+          "correct": 29,
+          "n": 29,
+          "exact_match": 1.0
+        }
+      }
+    },
+    "control": {
+      "correct": 4,
+      "n": 200,
+      "exact_match": 0.02,
+      "per_type": {
+        "city": {
+          "correct": 0,
+          "n": 38,
+          "exact_match": 0.0
+        },
+        "color": {
+          "correct": 2,
+          "n": 32,
+          "exact_match": 0.0625
+        },
+        "food": {
+          "correct": 1,
+          "n": 39,
+          "exact_match": 0.0256
+        },
+        "number": {
+          "correct": 0,
+          "n": 37,
+          "exact_match": 0.0
+        },
+        "password": {
+          "correct": 0,
+          "n": 25,
+          "exact_match": 0.0
+        },
+        "time": {
+          "correct": 1,
+          "n": 29,
+          "exact_match": 0.0345
+        }
+      }
+    }
+  },
+  "stats": {
+    "test_vs_floor_z": 0.0,
+    "test_vs_control_z": 0.0,
+    "test_minus_floor": 0.665
+  },
+  "wallclock_s": 537.6
+}

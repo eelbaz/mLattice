@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv*/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Runtime artifacts (regenerated)
+logs/
+data/*.txt
+results/_spark_pull/
+.pytest_cache/
+
+# Bolt-on target models (downloaded, large)
+models/
